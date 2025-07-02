@@ -15,7 +15,7 @@
 
 - Mở terminal, gõ lệnh "npm -v" để kiểm tra xem đã cài đặt thành công npm ở bước 1 chưa
 
-- Gõ tiếp lệnh "cd Desktop/tea-xyz-quest" để trỏ tới thư mục code 
+- Gõ tiếp lệnh "cd Desktop/tea-xyz-quest" để trỏ tới thư mục code.
 
 - "npm login" => Có 1 đường dẫn để bấm vào sẽ mở trình duyệt dẫn tới web login npm.
 
