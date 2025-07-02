@@ -23,6 +23,6 @@
 
 - Truy cập app.tea.xyz => Register a New OSS Project
 
-- Tìm kiếm tên package vừa tạo. VD: @tofake/tea-xyz-quest . Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz
+- Tìm kiếm tên package vừa tạo. VD: @tofake/tea-xyz-quest . Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz.
 
 - Sau đó tea sẽ cho 1 file có tên tea.yaml, tải về và quay lại repo github, upload tiếp file đó lên là xong.
