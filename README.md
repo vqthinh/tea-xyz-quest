@@ -19,7 +19,7 @@
 
 - "npm login" => Có 1 đường dẫn để bấm vào sẽ mở trình duyệt dẫn tới web login npm
 
-- Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check VD: https://www.npmjs.com/package/@tofake/tea-xyz-quest
+- Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check VD: https://www.npmjs.com/package/@tofake/tea-xyz-quest.
 
 - Truy cập app.tea.xyz => Register a New OSS Project.
 
