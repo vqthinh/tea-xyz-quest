@@ -21,7 +21,7 @@
 
 - Sau khi login thành công gõ lệnh "npm publish --access public" để public package lên npm publish. Truy cập npm để check VD: https://www.npmjs.com/package/@tofake/tea-xyz-quest
 
-- Truy cập app.tea.xyz => Register a New OSS Project
+- Truy cập app.tea.xyz => Register a New OSS Project.
 
 - Tìm kiếm tên package vừa tạo. VD: @tofake/tea-xyz-quest . Bước này có thể mất tới 2-3 ngày để package mới xuất hiện trên hệ thống của tea.xyz.
 
